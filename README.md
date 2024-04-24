@@ -16,7 +16,7 @@ Modulo 10 counter Logic Circuit<br />
 ![Combinational Logic Circuit (25min alarm circuit) Logic Circuit](https://github.com/AxcelT/LOGIC-CIRCUITS-AND-DESIGN-PROJECT/blob/main/Fig10.png?raw=true)<br />
 <br />
 Modulo-6 counter Logic Circuit<br />
-![Combinational Logic Circuit (25min alarm circuit) Logic Circuit](https://github.com/AxcelT/LOGIC-CIRCUITS-AND-DESIGN-PROJECT/blob/main/Fig12.png?raw=true)<br />
+![Combinational Logic Circuit (25min alarm circuit) Logic Circuit](https://github.com/AxcelT/LOGIC-CIRCUITS-AND-DESIGN-PROJECT/blob/main/Fig1111.png?raw=true)<br />
 <br />
 Iteration Counter Logic Circuit<br />
 ![Combinational Logic Circuit (25min alarm circuit) Logic Circuit](https://github.com/AxcelT/LOGIC-CIRCUITS-AND-DESIGN-PROJECT/blob/main/Fig14.png?raw=true)<br />
